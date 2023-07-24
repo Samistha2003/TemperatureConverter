@@ -1,0 +1,27 @@
+body{
+    padding:50px 100px;
+    text-align: center;
+    background-color: black;
+    color:white;}
+#converter{
+    background-color: rgb(178, 9, 9);
+    padding: 50px;
+}
+.input{
+    display: inline-block;
+    padding: 50px 100px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    width: 250px;
+    text-align: center;
+}
+label{
+    color: white;
+
+}
+.inp{
+    font-size: 30px;
+    text-align: center;
+}
